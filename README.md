@@ -7,6 +7,9 @@ Esse Script criar 9 usuarios, 4 Diretórios e atribui as permissões de acordo c
 ## Captura de tela
 
 ![captura de tela do shell](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/Screenshot%20from%202025-04-15%2022-06-56.png?raw=true)
+   
+![captura de tela do shell 2](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/002.png?raw=true)
+
 
 
 
