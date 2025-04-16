@@ -12,5 +12,25 @@ Esse Script criar 9 usuarios, 4 Diretórios e atribui as permissões de acordo c
 ![captura de tela do shell 2](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/002.png?raw=true)
 
 
+# IaC2
+## Segundo desafio de código     
+
+Implatação IaC para subir um servidor web com uma aplicação rodando.  
+
+## Captura de telas   
+
+Inicio da execução do script  
+
+
+
+Fim da execução do scripts  
+
+
+Aplicação rodando   
+
+
+
+
+
 
 
