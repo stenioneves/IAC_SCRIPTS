@@ -21,12 +21,15 @@ Implatação IaC para subir um servidor web com uma aplicação rodando.
 
 Inicio da execução do script  
 
-
+![Tela do inicio de scripts](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/IaC2-1.png?raw=true)
 
 Fim da execução do scripts  
 
+![Tela do inicio de scripts](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/IaC2-2.png?raw=true)
 
 Aplicação rodando   
+
+![Tela do inicio de scripts](https://github.com/stenioneves/IAC_SCRIPTS/blob/main/IaC2-3.png?raw=true)
 
 
 
